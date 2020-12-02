@@ -1,4 +1,11 @@
-### Hi there 👋
+## 오지영의 Github
+----------------------------------------------
+- Chung-ang Univ. major in Software Engineering
+- Member at Likelion 8th(멋쟁이 사자처럼 at 중앙대학교)
+- Teacher at Sullivan Project(설리번 프로젝트 @sullivanproject)
+
+![ohjeeyoung's github stats](https://github-readme-stats.vercel.app/api?username=ohjeeyoung&show_icons=true&theme=default) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohjeeyoung&layout=compact)](https://github.com/ohjeeyoung/github-readme-stats)
 
 <!--
 **ohjeeyoung/ohjeeyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
