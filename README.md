@@ -1,7 +1,7 @@
 ## 오지영의 Github
 - Chung-ang Univ. major in Software Engineering
 - Member at Likelion 8th, Teacher at Likelion 9th(멋쟁이 사자처럼 at 중앙대학교)
-- Member at CUAI in Chung-ang Univ.(AI Conference)
+- Member at CUAI(AI Conference)
 - Student Teacher at Sullivan Project(설리번 프로젝트 @sullivanproject)
 
 ![ohjeeyoung's github stats](https://github-readme-stats.vercel.app/api?username=ohjeeyoung&show_icons=true&theme=default) 
